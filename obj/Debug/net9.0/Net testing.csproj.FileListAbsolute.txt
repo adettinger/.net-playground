@@ -1,0 +1,14 @@
+C:\repos\Net testing\bin\Debug\net9.0\Net testing.exe
+C:\repos\Net testing\bin\Debug\net9.0\Net testing.deps.json
+C:\repos\Net testing\bin\Debug\net9.0\Net testing.runtimeconfig.json
+C:\repos\Net testing\bin\Debug\net9.0\Net testing.dll
+C:\repos\Net testing\bin\Debug\net9.0\Net testing.pdb
+C:\repos\Net testing\obj\Debug\net9.0\Net testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Net testing\obj\Debug\net9.0\Net testing.AssemblyInfoInputs.cache
+C:\repos\Net testing\obj\Debug\net9.0\Net testing.AssemblyInfo.cs
+C:\repos\Net testing\obj\Debug\net9.0\Net testing.csproj.CoreCompileInputs.cache
+C:\repos\Net testing\obj\Debug\net9.0\Net testing.dll
+C:\repos\Net testing\obj\Debug\net9.0\refint\Net testing.dll
+C:\repos\Net testing\obj\Debug\net9.0\Net testing.pdb
+C:\repos\Net testing\obj\Debug\net9.0\Net testing.genruntimeconfig.cache
+C:\repos\Net testing\obj\Debug\net9.0\ref\Net testing.dll
