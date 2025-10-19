@@ -12,3 +12,18 @@ C:\repos\Net testing\obj\Debug\net9.0\refint\Net testing.dll
 C:\repos\Net testing\obj\Debug\net9.0\Net testing.pdb
 C:\repos\Net testing\obj\Debug\net9.0\Net testing.genruntimeconfig.cache
 C:\repos\Net testing\obj\Debug\net9.0\ref\Net testing.dll
+C:\Users\14143\Desktop\repos\.net-playground\bin\Debug\net9.0\Net testing.exe
+C:\Users\14143\Desktop\repos\.net-playground\bin\Debug\net9.0\Net testing.deps.json
+C:\Users\14143\Desktop\repos\.net-playground\bin\Debug\net9.0\Net testing.runtimeconfig.json
+C:\Users\14143\Desktop\repos\.net-playground\bin\Debug\net9.0\Net testing.dll
+C:\Users\14143\Desktop\repos\.net-playground\bin\Debug\net9.0\Net testing.pdb
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.AssemblyInfoInputs.cache
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.AssemblyInfo.cs
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.csproj.CoreCompileInputs.cache
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.sourcelink.json
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.dll
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\refint\Net testing.dll
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.pdb
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.genruntimeconfig.cache
+C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\ref\Net testing.dll
