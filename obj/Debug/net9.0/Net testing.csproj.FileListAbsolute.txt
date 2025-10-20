@@ -28,3 +28,15 @@ C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.pdb
 C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.genruntimeconfig.cache
 C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\ref\Net testing.dll
 C:\repos\Net testing\obj\Debug\net9.0\Net testing.sourcelink.json
+C:\repos\Net testing\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\repos\Net testing\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repos\Net testing\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\repos\Net testing\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repos\Net testing\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\repos\Net testing\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\repos\Net testing\bin\Debug\net9.0\Serilog.dll
+C:\repos\Net testing\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+C:\repos\Net testing\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+C:\repos\Net testing\bin\Debug\net9.0\Serilog.Sinks.File.dll
+C:\repos\Net testing\obj\Debug\net9.0\Net testing.csproj.AssemblyReference.cache
+C:\repos\Net testing\obj\Debug\net9.0\Net test.5DCBF21C.Up2Date

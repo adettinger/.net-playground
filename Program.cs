@@ -1,3 +1,3 @@
-﻿using DIDemo;
+﻿using LoggingDemoNamespace;
 
-DIDemoProgram.Main();
+LoggingDemoProgram.Main();
