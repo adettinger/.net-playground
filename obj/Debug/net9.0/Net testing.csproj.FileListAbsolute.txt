@@ -27,3 +27,4 @@ C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\refint\Net testing
 C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.pdb
 C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\Net testing.genruntimeconfig.cache
 C:\Users\14143\Desktop\repos\.net-playground\obj\Debug\net9.0\ref\Net testing.dll
+C:\repos\Net testing\obj\Debug\net9.0\Net testing.sourcelink.json

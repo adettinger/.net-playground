@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\14143\\Desktop\\repos\\.net-playground\\Net testing.csproj": {}
+    "C:\\repos\\Net testing\\Net testing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\14143\\Desktop\\repos\\.net-playground\\Net testing.csproj": {
+    "C:\\repos\\Net testing\\Net testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\14143\\Desktop\\repos\\.net-playground\\Net testing.csproj",
+        "projectUniqueName": "C:\\repos\\Net testing\\Net testing.csproj",
         "projectName": "Net testing",
-        "projectPath": "C:\\Users\\14143\\Desktop\\repos\\.net-playground\\Net testing.csproj",
-        "packagesPath": "C:\\Users\\14143\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\14143\\Desktop\\repos\\.net-playground\\obj\\",
+        "projectPath": "C:\\repos\\Net testing\\Net testing.csproj",
+        "packagesPath": "C:\\Users\\adetting\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\Net testing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\14143\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\adetting\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
