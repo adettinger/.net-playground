@@ -1,0 +1,8 @@
+2025-10-20 16:05:50.692 +02:00 [INF] Processing input: HELLO, WORLD!
+2025-10-20 16:05:50.725 +02:00 [ERR] An exception occurred.
+System.InvalidOperationException: Simulated exception.
+   at LoggingDemoNamespace.LoggingDemoProgram.Main() in C:\repos\Net testing\LoggingDemo.cs:line 47
+2025-10-21 11:20:10.575 +02:00 [INF] Processing input: HELLO, WORLD!
+2025-10-21 11:20:10.682 +02:00 [ERR] An exception occurred.
+System.InvalidOperationException: Simulated exception.
+   at LoggingDemoNamespace.LoggingDemoProgram.Main() in C:\repos\Net testing\ConsoleApp\LoggingDemo.cs:line 47

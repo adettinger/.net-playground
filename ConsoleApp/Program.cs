@@ -1,0 +1,3 @@
+﻿using ErrorHandlingDemo;
+
+ErrorHandlingProgram.Main();

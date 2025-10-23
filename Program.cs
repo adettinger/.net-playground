@@ -1,3 +1,0 @@
-﻿using LoggingDemoNamespace;
-
-LoggingDemoProgram.Main();
